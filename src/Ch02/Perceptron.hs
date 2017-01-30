@@ -1,4 +1,4 @@
-module Ch02.AND where
+module Ch02.Perceptron where
 
 import Prelude hiding (and, or)
 import Numeric.LinearAlgebra
